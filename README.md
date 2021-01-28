@@ -1,4 +1,4 @@
 # codeCloud
 Some learning stuff
 
-Go learn coding together!
+Go to learn coding together!
